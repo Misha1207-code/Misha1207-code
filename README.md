@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Misha1207-code
+- 👋 Hi, I’m Misha
 - 👀 I’m interested in devops, graphics, coding etc
 - 🌱 I’m currently learning c, python, html, css, java
-- 📫 How to reach me- mishu5705@gmail.com
+- 📫 How to reach me- mishu5705@gmail.com / luvsimba4478@gmail.com
 - 😄 Pronouns: She/her
 
 <!---
