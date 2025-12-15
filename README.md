@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Misha</h1><br><h3 align="center">A passionate CS Student.</h3><br><br> <br><br>- 🌱 I’m currently learning DevSecOps, .NET, Cloud Computing Technologies<br><br>- 📫 How to reach me mishu5705@gmail.com/luvsimba4478@gmail.com<br><br><h3 align="left">Connect with me:</h3><br><p align="left"><br><a href="https://www.linkedin.com/in/misha-223815299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misha ." height="30" width="40" /></a><br></p><br><br>
+<h1 align="center">Hi 👋, I'm Misha</h1><br><h3 align="center">A passionate CS Student.</h3><br><br> <br><br>- 🌱 I’m currently learning DevOps, Cyber Security & Cloud Computing Technologies<br><br>- 📫 How to reach me mishu5705@gmail.com/luvsimba4478@gmail.com<br><br><h3 align="left">Connect with me:</h3><br><p align="left"><br><a href="https://www.linkedin.com/in/misha-223815299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misha ." height="30" width="40" /></a><br></p><br><br>
 
 
 # 💻 Tech Stack:
