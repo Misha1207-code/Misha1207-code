@@ -176,23 +176,13 @@ Automated CI/CD security pipeline integrating AI-powered code review.
 
 ---
 
-# 💡 Engineering Philosophy
 
 <p align="center">
 
-> **" Build systems that scale.  Keep learning, keep shipping."** 🚀
+> **" ⭐ If you like my work, consider starring my repos :) "** 🚀
 
 </p>
 
----
-
-<h3 align="center">
-
-⭐ If you like my work, consider starring my repositories!
-
-</h3>
-
----
 
 <p align="center">
 
