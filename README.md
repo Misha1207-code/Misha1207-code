@@ -10,10 +10,6 @@
 Automating today's problems so I can create tomorrow's.
 </h4>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Enterprise+Solutions;DevOps+%7C+Cloud+%7C+Kubernetes;Future+Site+Reliability+Engineer;Always+Learning+Something+New+🚀" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -79,7 +75,7 @@ AI Workflow Architect designed to simplify enterprise automation using AI.
 ### 🔐 AI DevSecOps Pipeline
 Automated CI/CD security pipeline integrating AI-powered code review.
 
-**Features**
+**Tech Stack**
 - SonarQube
 - Trivy
 - Docker
