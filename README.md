@@ -12,7 +12,7 @@ Automating today's problems so I can create tomorrow's.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
@@ -40,9 +40,9 @@ Currently Learning:
 
 ---
 
-# 💼 Experience
+# Experience
 
-### 🏢 Schneider Electric
+### Schneider Electric
 **Business Analyst Intern**
 - Built enterprise automation workflows using **Power Automate**
 - Developed AI-powered workflow architecture (**SchneiderFlow AI**)
@@ -52,14 +52,14 @@ Currently Learning:
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 🤖 SchneiderFlow AI
+### SchneiderFlow AI
 AI Workflow Architect designed to simplify enterprise automation using AI.
 
 **Tech Stack**
@@ -72,7 +72,7 @@ AI Workflow Architect designed to simplify enterprise automation using AI.
 
 <td width="50%">
 
-### 🔐 AI DevSecOps Pipeline
+### AI DevSecOps Pipeline
 Automated CI/CD security pipeline integrating AI-powered code review.
 
 **Tech Stack**
@@ -90,9 +90,9 @@ Automated CI/CD security pipeline integrating AI-powered code review.
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-## 💻 Languages
+## Languages
 
 <p>
 
@@ -102,7 +102,7 @@ Automated CI/CD security pipeline integrating AI-powered code review.
 
 ---
 
-## ☁️ Cloud
+## Cloud
 
 <p>
 
@@ -112,7 +112,7 @@ Automated CI/CD security pipeline integrating AI-powered code review.
 
 ---
 
-## ⚙️ DevOps
+## DevOps
 
 <p>
 
@@ -122,7 +122,7 @@ Automated CI/CD security pipeline integrating AI-powered code review.
 
 ---
 
-## 🗄️ Databases
+## Databases
 
 <p>
 
@@ -138,7 +138,7 @@ Automated CI/CD security pipeline integrating AI-powered code review.
 
 ---
 
-## 🧰 Tools
+## Tools
 
 <p>
 
@@ -148,7 +148,7 @@ Automated CI/CD security pipeline integrating AI-powered code review.
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 🏅 Finalist — AWS × IBM HackVeda 2026 (Selected among 180+ teams)
 
@@ -179,7 +179,7 @@ Automated CI/CD security pipeline integrating AI-powered code review.
 
 <p align="center">
 
-> **" ⭐ If you like my work, consider starring my repos :) "** 🚀
+> **" ⭐ If you like my work, consider starring my repos :) "** 
 
 </p>
 
